@@ -1,6 +1,6 @@
 # XTEink Lab
 
-> An engineering notebook for the XTEink family of e-readers running the CrossPoint firmware.
+*Engineering Notes, Linux Integration and Firmware Documentation for the XTEink Family*
 
 ## Overview
 
