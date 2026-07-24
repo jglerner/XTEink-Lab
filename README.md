@@ -1,6 +1,6 @@
 # XTEink Lab
 
-*Engineering Notes, Linux Integration and Firmware Documentation for the XTEink Family*
+> Engineering Notes for the XTEink Family
 
 ## Overview
 
