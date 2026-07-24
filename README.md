@@ -59,3 +59,13 @@ xteink-lab/
 │   ├── XT-004-esptool-Reference.md
 │   ├── XT-005-Calibre-Integration.md
 │   └── XT-006-FAQ.md
+```
+
+----
+
+## Status
+
+| Device | Firmware | Documentation |
+|---------|----------|---------------|
+| XTEink X4 | CrossPoint 1.4.1 | 🟢 Active |
+| XTEink X3 | CrossInk 1.4.0-tiny | 🟡 Planned |
