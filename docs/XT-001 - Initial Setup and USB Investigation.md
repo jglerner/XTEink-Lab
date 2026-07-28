@@ -199,6 +199,22 @@ The successful firmware upgrade established a verified baseline configuration fo
 
 ---
 
+## Assumed Knowledge
+
+XTEink-Lab is intended for users who are comfortable working in a Linux environment and performing basic system administration tasks.
+
+The procedures documented in this repository assume that the reader is familiar with:
+
+- Using a Linux terminal.
+- Navigating the file system.
+- Executing command-line programs.
+- Editing text files with a preferred editor.
+- Using `sudo` when administrative privileges are required.
+
+The objective of this repository is to document verified engineering procedures rather than provide introductory Linux tutorials. Readers who require guidance on fundamental Linux concepts should consult the appropriate documentation before following the procedures described here.
+
+---
+
 # References
 
 - XT-002 — CrossPoint 1.4.1 Upgrade *(planned)*
