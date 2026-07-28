@@ -1,0 +1,19 @@
+# Editor files
+*~
+*.swp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Temporary files
+*.tmp
