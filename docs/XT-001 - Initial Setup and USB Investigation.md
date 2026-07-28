@@ -220,7 +220,6 @@ XTEink-Lab uses **Debian 13 (Trixie)** as its reference operating system.
 The goal of this project is not to recommend a particular Linux distribution, but to provide a stable and reproducible engineering environment. All documented procedures are developed, tested, and validated on this platform.
 
 Engineering documentation benefits from consistency. By using a mature and well-supported operating system as the reference platform, the procedures in this repository remain repeatable and easier to maintain over time.
->>>>>>> 2b64650 (docs: refine XT-001 v0.1)
 
 ---
 
