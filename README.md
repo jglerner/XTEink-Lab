@@ -8,7 +8,7 @@
 
 The project is based on **real hardware**, **verified procedures**, and **reproducible testing**. Rather than being a collection of personal notes, its goal is to become a reliable technical reference for both XTEink users and Linux enthusiasts.
 
-Current documentation focuses on the **XTEink X4** running **CrossPoint 1.4.1**.
+Current documentation focuses on the XTEink X4 running the CrossPoint firmware.
 
 ---
 
@@ -37,7 +37,7 @@ This repository follows a few simple principles:
 ### Device
 
 - XTEink X4
-- CrossPoint 1.4.1
+- CrossPoint Firmware
 
 Future support for additional XTEink models (such as the X3) will be added as they are independently tested and documented.
 
@@ -53,9 +53,9 @@ xteink-lab/
 ├── .gitignore
 │
 ├── docs/
-│   ├── XT-001-X4-Recovery.md
-│   ├── XT-002-CrossPoint-1.4.1-Upgrade.md
-│   ├── XT-003-USB-Architecture.md
+│   ├── XT-001-Initial-Setup-and-USB-Investigation.md
+│   ├── XT-002-CrossPoint-Migration-Guide.md
+│   ├── XT-003-USB-Architecture-of-the-XTEink-X4.md
 │   ├── XT-004-esptool-Reference.md
 │   ├── XT-005-Calibre-Integration.md
 │   └── XT-006-FAQ.md
@@ -64,12 +64,22 @@ xteink-lab/
 
 ----
 
-## Status
+## Documentation Series
 
-| Device | Firmware | Documentation |
-|---------|----------|---------------|
-| XTEink X4 | CrossPoint 1.4.1 | 🟢 Active |
-| XTEink X3 | CrossInk 1.4.0-tiny | 🟡 Planned |
+The documentation is organized into two complementary categories:
+
+### Procedures
+
+Step-by-step guides for installation, configuration, and maintenance.
+
+- XT-001 – Initial Setup and USB Investigation
+- XT-002 – CrossPoint Migration Guide
+
+### Technical Notes
+
+Engineering references describing the internal architecture and operation of the platform.
+
+- XT-003 – USB Architecture of the XTEink X4
 
 ---
 
