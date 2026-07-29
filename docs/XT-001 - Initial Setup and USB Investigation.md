@@ -225,6 +225,10 @@ Engineering documentation benefits from consistency. By using a mature and well-
 
 # References
 
+<<<<<<< HEAD
 - XT-002 — CrossPoint 1.4.1 Upgrade
+=======
+- XT-002 — CrossPoint 1.4.1 Upgrade Guide
+>>>>>>> 9cd3735 (docs: editorial review and align XT-001 through XT-003)
 - Official CrossPoint documentation
 - ESP32 `esptool`
