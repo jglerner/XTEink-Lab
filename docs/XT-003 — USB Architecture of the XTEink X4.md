@@ -121,8 +121,6 @@ Together, these components form a layered communication architecture in which ea
 
 ## 6. Communication Flow
 
-## 6. Communication Flow
-
 Communication between the XTEink X4 and a Linux host follows a well-defined sequence managed by the USB subsystem and the ESP32-C3 microcontroller.
 
 The process can be summarized as follows:
