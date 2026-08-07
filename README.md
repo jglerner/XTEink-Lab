@@ -93,3 +93,14 @@ Engineering documentation benefits from consistency. By using a mature and well-
 
 ---
 
+## Project Status
+
+XTEink-Lab is an actively maintained engineering documentation project.
+
+The current release establishes the initial documentation set for the XTEink X4,
+including verified procedures and technical reference notes. Future releases will
+expand the collection with additional technical notes, integration guides, and
+support for other XTEink devices as they are independently tested.
+
+Current Release: **v0.1.0**
+
