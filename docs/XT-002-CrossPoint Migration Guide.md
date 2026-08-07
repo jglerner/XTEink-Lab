@@ -115,8 +115,6 @@ Before attempting to communicate with the XTEink X4 or flashing new firmware, ve
 
 ### 4.2 Verify USB Detection
 
-## 4. Verify USB Connection
-
 Verifying USB connectivity is the first diagnostic step in the firmware upgrade process. Before attempting to communicate with the ESP32-C3 or flashing new firmware, confirm that the Linux kernel detects the XTEink X4 as a USB device.
 
 Failure to detect the device at this stage is typically caused by a USB cable that does not support data transfer, an unsuitable USB port, or an incorrect device state. These issues should be resolved before proceeding to the next section.
