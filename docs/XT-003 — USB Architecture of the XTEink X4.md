@@ -179,8 +179,6 @@ Each layer performs a specific function, allowing hardware, operating system, an
 
 ## 7. Practical Examples
 
-## 7. Practical Examples
-
 The following examples demonstrate how to verify each stage of the communication process using standard Linux utilities.
 
 ### Verify USB Device Detection
@@ -255,8 +253,6 @@ This command provides additional information about the device class, driver, and
 
 ## 8. Common Misconceptions
 
-## 8. Common Misconceptions
-
 Several common misconceptions can make troubleshooting USB communication more difficult. Understanding the following points can help avoid unnecessary confusion.
 
 ### "The XTEink X4 should appear as a USB flash drive."
@@ -288,8 +284,6 @@ Not always. Device detection confirms only that the USB connection has been esta
 Not necessarily. Depending on the system configuration and the number of connected USB serial devices, Linux may assign a different device name, such as `/dev/ttyACM1`. Always verify the active device before communicating with the XTEink X4.
 
 ---
-
-## 9. Troubleshooting
 
 ## 9. Troubleshooting
 
@@ -355,8 +349,6 @@ If the device disconnects unexpectedly:
 For a detailed diagnostic procedure covering USB detection, cable verification, and Linux-specific troubleshooting, refer to **XT-001 – Initial Setup and USB Investigation**.
 
 ---
-
-## 10. References
 
 ## 10. References
 
